@@ -1,7 +1,7 @@
-# Sassinate-Pure
-Converts Pure.css to a simple Sass format.
+# Sassinate Pure
+A simple Node.JS and Grunt build script that converts Pure.css to a simple Sass format.
 
-This will always fetch the latest available version of Pure.
+This will always fetch the latest available version of Pure from npm. 
 
 # Usage
     npm install
@@ -33,4 +33,4 @@ There is a simple `all.scss` file to simplift this for you
 @import 'pure/all';
 ```
 # TODO
-* Create a defaults file to allow easily changing colours. 
+* Create a defaults file to allow easily changing colours.
