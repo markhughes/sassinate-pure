@@ -1,0 +1,14 @@
+{
+  "name": "Sassinate-Pure",
+  "version": "1.0.0",
+  "description": "Convert Pure.css into Sass",
+  "main": "index.js",
+  "author": "Mark Hughes <mark@markeh.me>",
+  "license": "MIT",
+  "dependencies": {
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-copy": "^0.8.0",
+    "grunt-contrib-rename": "0.0.3",
+    "purecss": "^0.6.0"
+  }
+}
